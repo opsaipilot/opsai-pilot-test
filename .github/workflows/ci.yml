@@ -1,4 +1,4 @@
-name: OpsAI Pilot CI
+name: OpsAI CI
 
 on:
   push:
