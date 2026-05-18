@@ -1,0 +1,1 @@
+Hex will write code only after Aegis approval and Forge validation.
